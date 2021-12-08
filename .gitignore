@@ -1,0 +1,6 @@
+lambda/node_modules
+lambda/dist
+lambda/coverage
+terraform/lambda-zip.zip
+terraform/*.tfstate*
+.terraform
